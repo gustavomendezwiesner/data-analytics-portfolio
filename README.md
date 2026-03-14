@@ -20,6 +20,8 @@ Process Automation
 
 ## Power BI Dashboard Projects
 
+Note: All dashboards presented in this portfolio use anonymized or simulated data to protect client confidentiality. Visualizations are representative of the analytical solutions developed.
+
 ### Revenue Analytics Dashboard
 
 ![Power_BI_Revenue_Dashboard](revenue-dashboard-powerbi.png)
@@ -114,7 +116,9 @@ Webdox CLM
 Process automation  
 Workflow design  
 Document management
+
 ## Contact
 
 Gustavo Mendez  
-WhatsApp: +57 320 566 9298
+WhatsApp: +57 320 566 9298  
+Email: gustavo.mendez@nebodata.com
