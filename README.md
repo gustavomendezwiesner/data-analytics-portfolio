@@ -1,6 +1,6 @@
 # Gustavo Mendez
 
-Data Analyst | Power BI | SQL | Business Intelligence
+Data Analyst | Power BI | SQL | Business Intelligence | Process Automation | Digital Transformation
 
 Welcome to my Data Analytics Portfolio.
 
@@ -91,7 +91,29 @@ Data analysis
 Business intelligence
 
 ---
+---
 
+### Contract Lifecycle Management (CLM) Implementation – Webdox
+
+Business problem  
+The organization lacked a centralized system to manage contracts, approvals and document traceability.
+
+Solution  
+Led the implementation of a Contract Lifecycle Management (CLM) platform using Webdox, designing approval workflows and improving document governance.
+
+Key outcomes
+
+Centralized contract repository  
+Standardized contract approval workflows  
+Improved traceability and document control  
+Reduction of manual contract management processes
+
+Tools
+
+Webdox CLM  
+Process automation  
+Workflow design  
+Document management
 ## Contact
 
 Gustavo Mendez  
