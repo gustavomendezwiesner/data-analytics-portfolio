@@ -46,6 +46,8 @@ DAX
 
 ### Budget Analysis Dashboard
 
+![Revenue Planning Dashboard](images/revenue-planning-dashboard-powerbi.png)
+
 Business problem  
 Management required visibility of the annual revenue budget and performance by category.
 
