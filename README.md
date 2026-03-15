@@ -73,6 +73,8 @@ DAX
 
 ### Strategic Procurement Dashboard
 
+![Procurement Analytics Dashboard](procurement-analytics-dashboard.png)
+
 Business problem  
 Procurement teams required better visibility of supplier spending and category distribution.
 
