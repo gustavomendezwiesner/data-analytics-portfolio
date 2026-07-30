@@ -18,6 +18,20 @@ Process Automation
 
 ---
 
+## 💼 Projects
+
+### 📦 [AI-Powered Logistics Shipment Tracker & Ingestion Pipeline](./logistics-ai-shipment-tracker)
+
+> **Tech Stack:** Python, Google Gemini 3.6 Flash, Tally Forms, Google Sheets API, Pydantic, VS Code.
+
+Pipeline automatizado ETL que procesa capturas de WhatsApp, PDFs y textos de guías de transporte. Extrae datos clave de forma multimodal mediante la API de Gemini, los estructura en Google Sheets y genera reportes automáticos en inglés listos para enviar al cliente.
+
+![Automated Shipment Tracking Pipeline](./logistics-ai-shipment-tracker/automated_shipment_tracking_pipeline.png)
+
+👉 **[Ver código fuente, esquema de datos y documentación completa](./logistics-ai-shipment-tracker)**
+
+---
+
 ## Power BI Dashboard Projects
 
 Note: All dashboards presented in this portfolio use anonymized or simulated data to protect client confidentiality. Visualizations are representative of the analytical solutions developed.
